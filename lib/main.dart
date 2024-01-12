@@ -61,7 +61,7 @@ void initState() {
     String notificationId = "";
     SharedPreferences prefs = await SharedPreferences.getInstance();
 
-    await OneSignal.shared.setAppId('9d042f9b-c179-4d05-b0e3-39b317a27689');
+    await OneSignal.shared.setAppId('*********ad appid****');
     OneSignal.shared.setNotificationWillShowInForegroundHandler((event) {
       OSNotificationDisplayType.notification;
     });
