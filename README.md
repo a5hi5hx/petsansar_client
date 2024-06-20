@@ -1,16 +1,5 @@
 # petsansar_client
 
-A new Flutter project.
+Developed the PetSansar mobile app using Flutter, allowing users to browse and purchase pets and pet-related products, featuring user profiles, favorites, and notifications, integrated via a backend API for product information and user authentication. Additionally, created a Node.js server with a RESTful API for CRUD operations, enhancing efficiency with Express.js and Mongoose, and deployed it on Cyclic and MongoDB Atlas, including an admin dashboard for managing shop details.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Backend Server: https://github.com/a5hi5hx/petsansar-api
