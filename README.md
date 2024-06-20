@@ -1,4 +1,4 @@
-![Logo](https://res.cloudinary.com/ds1swdnv8/image/upload/c_thumb,h_800,w_800/co_rgb:FFFFFF,l_text:helvetica_50_bold_normal_left:@a5hi5hx/fl_layer_apply,g_center/eqe0gsa5ku77mqbz8rzp.jpg)
+![Logo](https://res.cloudinary.com/ds1swdnv8/image/upload/v1718851988/v2meidoonnjeperjoghu.jpg)
 
 
 # PetSansar Server
